@@ -1,6 +1,6 @@
 varintbuf
 =====================
-[![Build Status](https://travis-ci.com/mattsse/varintbuf.svg?branch=master)](https://travis-ci.com/mattsse/varintbuf)
+![Build](https://github.com/mattsse/varintbuf/workflows/Continuous%20integration/badge.svg)
 [![Crates.io](https://img.shields.io/crates/v/varintbuf.svg)](https://crates.io/crates/varintbuf)
 [![Documentation](https://docs.rs/varintbuf/badge.svg)](https://docs.rs/varintbuf)
 
