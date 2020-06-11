@@ -1,0 +1,13 @@
+[package]
+name = "varintbuf"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description = "varinteger encoding/decoding with bytes"
+documentation = "https://docs.rs/varintbuf/"
+repository = "https://github.com/mattsse/varintbuf"
+authors = ["Matthias Seitz <matthias.seitz@tum.de>"]
+edition = "2018"
+
+[dependencies]
+bytes = "0.5"
